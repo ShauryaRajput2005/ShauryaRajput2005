@@ -1,6 +1,3 @@
-Here's a fully customized **GitHub Profile README** with **widgets, stats, and cool features** to make it look awesome! 🚀  
-
----
 
 # **Shikhar Shaurya 👋**  
 ### **Data Science | Machine Learning | Web Development | Fiction & Music Lover**  
@@ -62,12 +59,6 @@ Here's a fully customized **GitHub Profile README** with **widgets, stats, and c
 
 ## **📫 Let’s Connect!**  
 📩 **Email:** [shikharshauryarajput@gmail.com](mailto:shikharshauryarajput@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-🐦 **Twitter:** [Your Twitter Handle](#)  
-🌐 **Portfolio:** [Your Portfolio Link](#)  
+💼 **LinkedIn:** [www.linkedin.com/in/shikhar-shaurya25](#)  
 
 Let’s collaborate and build something amazing together! 🚀✨  
-
----
-
-This README makes your profile stand out by **showcasing your skills, projects, and GitHub activity with widgets**. Let me know if you’d like to add anything else! 😃
