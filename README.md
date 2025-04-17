@@ -50,9 +50,8 @@
 ---
 
 ## **🚀 Featured Projects**  
-🔹 **[Movie Recommendation System](#)** - A recommendation system based on user preferences using ML algorithms.  
+🔹 **[Book Recommendation System](#)** - A recommendation system based on user preferences using ML algorithms.  
 🔹 **[Calorie Prediction Model](#)** - Built with **Streamlit** and deployed for user interaction.  
-🔹 **[Interactive Data Visualizations](#)** - Created using **Matplotlib & Seaborn** for meaningful insights.  
 
 ---
 
