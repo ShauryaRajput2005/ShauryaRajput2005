@@ -1,6 +1,6 @@
 
 # **Shikhar Shaurya 👋**  
-### **Data Science | Machine Learning | Web Development | Fiction & Music Lover**  
+### **Data Science | Machine Learning  | Fiction & Music Lover**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShikharShaurya&color=blue)  
 
