@@ -14,7 +14,6 @@
 ## **📌 About Me**  
 - 🎓 **Studying Data Science & ML** – Enthusiastic about predictive modeling, recommendation systems, and AI.  
 - 💻 **Coding Enthusiast** – Solving **DSA problems**, implementing **algorithms**, and exploring new tech.  
-- 🌍 **Web Development** – Creating full-stack applications and interactive UI.  
 - 📖 **Fiction Lover** – Always lost in books, from **thought-provoking classics to thrilling adventures**.  
 - 🎧 **Music Aficionado** – From **classical symphonies to indie rock**, music is life.  
 
