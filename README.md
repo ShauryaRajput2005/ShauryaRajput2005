@@ -50,7 +50,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ShauryaRajput2005/Devslane?color=green" />
   <img src="https://img.shields.io/github/repo-size/ShauryaRajput2005/Devslane" />
-  <img src="https://img.shields.io/netlify/d20e0b62-8ba3-45a2-9e32-3e5b47a0456f?label=Netlify&color=brightgreen&logo=netlify" />
 </p>
 
 ---
@@ -58,7 +57,6 @@
 ### 🧠 Fun Facts
 
 - 🎨 I'm addicted to building aesthetic UIs
-- 📷 I collect beautiful code snippets like people collect vinyl records
 - 🌍 Learning never stops — “Stay curious, stay building.”
 
 ---
