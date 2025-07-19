@@ -1,62 +1,79 @@
-
-# **Shikhar Shaurya 👋**  
-### **Data Science | Machine Learning  | Fiction & Music Lover**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShikharShaurya&color=blue)  
-
-🚀 **B.Tech CSE Student | Passionate about AI, ML & Data Science**  
-💡 Constantly exploring **Machine Learning, Web Development, and Problem-Solving**  
-📊 Building **data-driven applications & recommendation systems**  
-🎵 Loves **music**, 📖 **fiction**, and **solving real-world problems with code**  
+<h1 align="center">Hi, I'm Shikhar Shaurya 👋</h1>
+<h3 align="center">Aspiring Frontend Developer | ML & Data Science Enthusiast</h3>
 
 ---
 
-## **📌 About Me**  
-- 🎓 **Studying Data Science & ML** – Enthusiastic about predictive modeling, recommendation systems, and AI.  
-- 💻 **Coding Enthusiast** – Solving **DSA problems**, implementing **algorithms**, and exploring new tech.  
-- 📖 **Fiction Lover** – Always lost in books, from **thought-provoking classics to thrilling adventures**.  
-- 🎧 **Music Aficionado** – From **classical symphonies to indie rock**, music is life.  
+### 💻 About Me
+
+- 🔭 Currently working on **frontend web development** projects and interfaces.
+- 🌱 Actively learning **Machine Learning**, **Deep Learning**, and **Data Science** alongside core development.
+- 💡 Passionate about creating clean, responsive UIs and building impactful ML models.
+- 🚀 Exploring modern web technologies like **React**, **Tailwind CSS**, **Framer Motion**, and **Next.js**.
+- 👨‍💻 Intern @ **DevsLane** – working on real-world frontend challenges and UI implementation.
 
 ---
 
-## **⚡ Tech Stack & Tools**  
-### **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### 🛠️ Skills & Technologies
 
-### **Frameworks & Libraries:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-### **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShikharShaurya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharShaurya&layout=compact&theme=radical)  
+#### Data & ML
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
-## **🏆 GitHub Trophies**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShikharShaurya&theme=onedark&margin-w=10&margin-h=10)  
+### 📌 Current Projects
+
+- 🔨 **DevsLane Internship Projects**  
+  → Working on real-world UIs, modern layouts, and interactive components.  
+  → GitHub: [DevsLane Repo](https://github.com/ShauryaRajput2005/Devslane)
+
+- 📊 **ML/DL Projects** (Coming soon!)  
+  → Projects on classification, regression, image recognition, and exploratory data analysis.
 
 ---
 
-## **🚀 Featured Projects**  
-🔹 **[Book Recommendation System](#)** - A recommendation system based on user preferences using ML algorithms.  
-🔹 **[Calorie Prediction Model](#)** - Built with **Streamlit** and deployed for user interaction.  
+### 🌱 Learning Goals
+
+- Master **JavaScript ES6+** and **React performance optimization**.
+- Build end-to-end ML pipelines for real-world datasets.
+- Understand **CNNs**, **transfer learning**, and **deep architectures**.
+- Collaborate on open source and contribute to meaningful repos.
 
 ---
 
-## **📫 Let’s Connect!**  
-📩 **Email:** [shikharshauryarajput@gmail.com](mailto:shikharshauryarajput@gmail.com)  
-💼 **LinkedIn:** [www.linkedin.com/in/shikhar-shaurya25](#)  
+### 📫 Connect With Me
 
-Let’s collaborate and build something amazing together! 🚀✨  
+<p>
+  <a href="https://github.com/ShauryaRajput2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ShauryaRajput2005-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shikhar-shaurya25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Shaurya-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “Sometimes I debug just to prove the bug wrong.” 😄
+
+---
+
+<p align="center">
+  🛠️ Built with passion | 🧠 Always learning | ☕ Fuelled by caffeine
+</p>
