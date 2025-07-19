@@ -1,79 +1,76 @@
-<h1 align="center">Hi, I'm Shikhar Shaurya 👋</h1>
-<h3 align="center">Aspiring Frontend Developer | ML & Data Science Enthusiast</h3>
-
----
-
-### 💻 About Me
-
-- 🔭 Currently working on **frontend web development** projects and interfaces.
-- 🌱 Actively learning **Machine Learning**, **Deep Learning**, and **Data Science** alongside core development.
-- 💡 Passionate about creating clean, responsive UIs and building impactful ML models.
-- 🚀 Exploring modern web technologies like **React**, **Tailwind CSS**, **Framer Motion**, and **Next.js**.
-- 👨‍💻 Intern @ **DevsLane** – working on real-world frontend challenges and UI implementation.
-
----
-
-### 🛠️ Skills & Technologies
-
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-#### Data & ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-### 📌 Current Projects
-
-- 🔨 **DevsLane Internship Projects**  
-  → Working on real-world UIs, modern layouts, and interactive components.  
-  → GitHub: [DevsLane Repo](https://github.com/ShauryaRajput2005/Devslane)
-
-- 📊 **ML/DL Projects** (Coming soon!)  
-  → Projects on classification, regression, image recognition, and exploratory data analysis.
-
----
-
-### 🌱 Learning Goals
-
-- Master **JavaScript ES6+** and **React performance optimization**.
-- Build end-to-end ML pipelines for real-world datasets.
-- Understand **CNNs**, **transfer learning**, and **deep architectures**.
-- Collaborate on open source and contribute to meaningful repos.
-
----
-
-### 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/ShauryaRajput2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ShauryaRajput2005-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/shikhar-shaurya25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Shaurya-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> “Sometimes I debug just to prove the bug wrong.” 😄
-
----
+<h1 align="center">Hi 👋, I'm Shikhar Shaurya</h1>
+<h3 align="center">🚀 Frontend Developer | 📊 Aspiring Data Scientist | 🌐 Tech Explorer</h3>
 
 <p align="center">
-  🛠️ Built with passion | 🧠 Always learning | ☕ Fuelled by caffeine
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Code.+Create.+Repeat.;Frontend+Dev+🖥️+%2B+ML+Learner+🤖;Always+Building%2C+Always+Learning+💡" alt="Typing SVG" />
 </p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💻 Currently focused on **Frontend development** using React & Tailwind  
+- 🤖 Actively learning **Machine Learning & Deep Learning**  
+- 🛠️ Working on real-world **UI/UX projects**  
+- 🎓 Engineering student passionate about tech, growth, and collaboration
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRajput2005&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRajput2005&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ShauryaRajput2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ShauryaRajput2005-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shikhar-shaurya25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Shaurya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 🔗 My Projects on Netlify
+
+<p align="center">
+  <a href="https://app.netlify.com/teams/shauryarajput2005/projects" target="_blank">
+    <img src="https://img.shields.io/netlify/9465aa8c-e9b7-4fd5-b2a7-35c0e2a9e88d?label=Netlify&logo=netlify&color=00C7B7&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 📊 Repository Insights
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ShauryaRajput2005/Devslane?color=green&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/ShauryaRajput2005/Devslane?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">✍️ Made with ❤️ by <strong>Shikhar Shaurya</strong></p>
