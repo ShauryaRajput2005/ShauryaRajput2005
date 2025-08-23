@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Crafting Frontend Experiences | Aspiring Data Scientist | ML & DL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7797D&width=435&lines=Code.+Design.+Learn.+Repeat.;Frontend+Dev+%7C+ML+Explorer;Love+building+beautiful+UI+with+React+%26+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7797D&width=435&lines=Code.+Design.+Learn.+Repeat.;Full+Stack+Dev+%7C+ML+Explorer;Love+building+beautiful+UI+with+React+%26+Tailwind" alt="Typing SVG" />
 </p>
 
 ---
