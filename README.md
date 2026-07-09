@@ -119,14 +119,6 @@ quote      : "Stay curious, stay building."
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShauryaRajput2005&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -143,7 +135,7 @@ quote      : "Stay curious, stay building."
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shikhar%20Shaurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shaurya25/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://app.netlify.com/teams/shauryarajput2005/projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar-dev-smoky.vercel.app/)
 
 </div>
 
