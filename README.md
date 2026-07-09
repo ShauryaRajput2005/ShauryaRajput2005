@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Shikhar%20Shaurya&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=250&section=header&text=Shikhar%20Shaurya&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Systems;Architecting+Intelligent+AI+Solutions;Full+Stack+Product+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Systems;Architecting+Intelligent+AI+Solutions;Full+Stack+Product+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0369A1?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-0369A1?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://shikhar-dev-smoky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shikhar-shaurya25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ShauryaRajput2005"><img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://shikhar-dev-smoky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0284C7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shikhar-shaurya25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ShauryaRajput2005"><img src="https://img.shields.io/badge/GitHub-Follow-0284C7?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShauryaRajput2005&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-  <a href="https://github.com/ShauryaRajput2005?tab=followers"><img src="https://img.shields.io/github/followers/ShauryaRajput2005?style=for-the-badge&color=6D28D9&label=FOLLOWERS" /></a>
-  <a href="https://github.com/ShauryaRajput2005?tab=repositories"><img src="https://img.shields.io/github/stars/ShauryaRajput2005?style=for-the-badge&color=6D28D9&label=STARS" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ShauryaRajput2005&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" />
+  <a href="https://github.com/ShauryaRajput2005?tab=followers"><img src="https://img.shields.io/github/followers/ShauryaRajput2005?style=for-the-badge&color=0284C7&label=FOLLOWERS" /></a>
+  <a href="https://github.com/ShauryaRajput2005?tab=repositories"><img src="https://img.shields.io/github/stars/ShauryaRajput2005?style=for-the-badge&color=0284C7&label=STARS" /></a>
 </p>
 
 </div>
@@ -152,16 +152,16 @@ Engineered scalable frontend interfaces and integrated robust APIs for enterpris
 <div align="center">
 
 ### AWS
-<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-0369A1?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 ### Oracle
-<img src="https://img.shields.io/badge/Oracle_Certified_Associate-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Certified_Associate-0369A1?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### NPTEL
-<img src="https://img.shields.io/badge/NPTEL_Deep_Learning-4C1D95?style=for-the-badge&logo=nptel&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL_Deep_Learning-0369A1?style=for-the-badge&logo=nptel&logoColor=white" />
 
 ### Cisco
-<img src="https://img.shields.io/badge/Cisco_CCNA-4C1D95?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_CCNA-0369A1?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -185,11 +185,11 @@ Engineered scalable frontend interfaces and integrated robust APIs for enterpris
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRajput2005&show_icons=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E2E8F0&icon_color=8B5CF6&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRajput2005&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0&icon_color=0EA5E9&border_radius=10" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRajput2005&layout=compact&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E2E8F0&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRajput2005&layout=compact&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0&border_radius=10" height="180"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShauryaRajput2005&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&border_radius=10" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShauryaRajput2005&hide_border=true&background=0f172a&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&border_radius=10" width="60%"/>
 </div>
 
 ---
@@ -199,7 +199,7 @@ Engineered scalable frontend interfaces and integrated robust APIs for enterpris
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShauryaRajput2005&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShauryaRajput2005&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 </div>
 
 ---
@@ -209,7 +209,7 @@ Engineered scalable frontend interfaces and integrated robust APIs for enterpris
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRajput2005&theme=tokyo-night&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRajput2005&theme=react&hide_border=true&bg_color=0f172a&color=38BDF8&line=0EA5E9&point=38BDF8&area=true&area_color=0369A1" width="100%"/>
 </div>
 
 ---
@@ -219,7 +219,11 @@ Engineered scalable frontend interfaces and integrated robust APIs for enterpris
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -245,12 +249,12 @@ open_to: [ "Software Engineer Roles", "AI Researcher Positions" ]
   <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shikhar-shaurya25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ShauryaRajput2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://shikhar-dev-smoky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://shikhar-dev-smoky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
   <p><i>"Engineering intelligence into scalable solutions."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer" width="100%" />
 </div>
